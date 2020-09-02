@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_apps"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_apps_24"
+        android:title="일정"/>
+
+    <item
+        android:id="@+id/action_note"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_note_24"
+        android:title="메모"/>
+
+    <item
+        android:id="@+id/action_search"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="검색"/>
+
+    <item
+        android:id="@+id/action_settinds"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="설정"/>
+
+</menu>
